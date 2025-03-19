@@ -1,2 +1,4 @@
 exemplo branch
 alteracao para teste pull.
+Exemplo de conflito dentro do commit
+
